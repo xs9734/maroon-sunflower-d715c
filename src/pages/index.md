@@ -6,11 +6,9 @@ sections:
     section_id: hero_section
     background_image: images/hero-1.png
     background_image_opacity: 80
-    content: >-
-      # Real, beautiful plants right to your door
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: |
+      # New and Stylish Frames
+      Start the year with a new pair of designer frames.
     actions:
       - title: See all items
         url: /store
