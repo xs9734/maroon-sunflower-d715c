@@ -6,9 +6,9 @@ sections:
     section_id: hero_section
     background_image: images/hero-1.png
     background_image_opacity: 80
-    content: |
-      # New and Stylish Frames
-      Start the year with a new pair of designer frames.
+    content: |-
+      # New Year, New Frames.
+      Find the perfect frames to start 2021. 
     actions:
       - title: See all items
         url: /store
