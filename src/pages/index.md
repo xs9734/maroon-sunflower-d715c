@@ -4,18 +4,17 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/hero-1.png
     background_image_opacity: 80
-    content: >-
-      # Real, beautiful plants right to your door
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: |-
+      # New Year.
+      # New Frames.
+      Find the perfect frames to start 2021. 
     actions:
       - title: See all items
         url: /store
         arrow: true
-        style: primary
+        style: link
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
